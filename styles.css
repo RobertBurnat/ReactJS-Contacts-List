@@ -1,0 +1,42 @@
+body {
+	margin: 50px auto;
+	padding: 25px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+p {
+	margin: 0;
+}
+h1 {
+	margin-bottom: 50px;
+}
+img {
+	width: 100px;
+}
+.contactItem {
+	padding: 20px 0;
+	text-align: left;
+	display: flex;
+	margin-bottom: 20px;
+
+}
+.form-control {
+	margin: 20px;
+}
+.contactForm {
+	border: 1px solid #000;
+}
+.contactsList {
+	border: 1px solid grey;
+	width: 700px;
+	margin: 25px;
+}
+.contactInfos {
+	display: inline-block;
+	margin: 15px;
+	
+}
+.Title {
+	text-align: center;
+}
